@@ -180,6 +180,13 @@ pip3 install kubernetes requests
 ```bash
 ollama pull llama3
 ollama serve
+
+```
+
+Verify:
+
+```bash
+curl http://localhost:11434
 ```
 
 ---
