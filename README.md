@@ -45,7 +45,7 @@ Observe → Analyze → Decide → Act → Verify
 
 ---
 
-# 🔄 Workflow (Explain This in Your Video)
+# 🔄 Workflow
 
 ```text
 Kubernetes Cluster
